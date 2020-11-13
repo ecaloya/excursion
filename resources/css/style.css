@@ -1,0 +1,43 @@
+/* Universal Styles */
+
+body {
+    margin: 0;
+    background-color: black;
+    font-family: Verdana, sans serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h4 {
+    font-size: 21px;
+    Color: gray;
+}
+
+h5 {
+    font-size: 16px;
+    Color: aquamarine;
+    text-decoration: underline;
+}
+
+/* Header */
+
+
+/* Main Content */
+video {
+    object-fit: contain;
+}
+
+/* Footer*/
+.footer p {
+    text-align: right;
+}
